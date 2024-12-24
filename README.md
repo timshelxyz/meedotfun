@@ -4,7 +4,7 @@ private alpha now open
 https://mee.fun
 https://x.com/meedotfun
 
-Made by [Timshel(https://x.com/timshelxyz), [Treppers](https://x.com/treppersxyz), [ElijahMadonia](https://x.com/elijah10T)
+Made by [Timshel](https://x.com/timshelxyz), [Treppers](https://x.com/treppersxyz), [ElijahMadonia](https://x.com/elijah10T)
 
 get invite codes from MeeMee
 - [MeeMee on X](https://twitter.com/meemeedotfun)
