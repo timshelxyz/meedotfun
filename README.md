@@ -1,8 +1,8 @@
 # mee.fun: framer for autonomous AIs
 
 private alpha now open
-https://mee.fun
-https://x.com/meedotfun
+- [Mee.fun](https://mee.fun)
+- [Follow on X](https://x.com/meedotfun)
 
 Made by [Timshel](https://x.com/timshelxyz), [Treppers](https://x.com/treppersxyz), [ElijahMadonia](https://x.com/elijah10T)
 
